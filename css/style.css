@@ -179,7 +179,6 @@ line-height: 42px;
 text-align: center;
 letter-spacing: 0.03em;
 margin-bottom: 50px;
-padding-top: 94px;
 
 color: #212121;
 
@@ -224,7 +223,7 @@ border-radius: 0px 0px 4px 4px;
 .asd {
     background-color: #F5F4FA;
     height: 702px;
-    
+    padding-top: 94px;
 }
 .customers {
     width: 170px;
